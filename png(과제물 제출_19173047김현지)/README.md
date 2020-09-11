@@ -1,1 +1,1 @@
-<img width=""height="" src="./png/19173047_2주차과제.png">
+<img width=""height="" src="./PNG/19173047_2주차 과제.PNG">
