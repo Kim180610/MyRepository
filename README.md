@@ -8,3 +8,7 @@
 ## 3주차 과제
 <img width="" height="" src="./png(과제물 제출_19173047김현지)/3주차과제.PNG"></img>
 <img width="" height="" src="./png(과제물 제출_19173047김현지)/3주차과제2.PNG"></img>
+
+## 7주차 과제
+<img width="" height="" src="./png(과제물 제출_19173047김현지)/7주차과제.PNG"></img>
+<img width="" height="" src="./png(과제물 제출_19173047김현지)/7주차과제1.PNG"></img>
